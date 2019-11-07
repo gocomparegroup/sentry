@@ -1,1 +1,6 @@
 # Add plugins here
+sentry-redmine
+sentry-gitlab
+sentry-slack
+sentry-github
+sentry-vsts
